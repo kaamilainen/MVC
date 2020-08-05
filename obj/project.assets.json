@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStusioProject.csproj",
-      "projectName": "VisualStusioProject",
-      "projectPath": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStusioProject.csproj",
+      "projectUniqueName": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStudioProject.csproj",
+      "projectName": "VisualStudioProject",
+      "projectPath": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStudioProject.csproj",
       "packagesPath": "/Users/tiinakaamilainen/.nuget/packages/",
       "outputPath": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/obj/",
       "projectStyle": "PackageReference",

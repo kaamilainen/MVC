@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{428F2D3A-E40E-4A91-BE2E-FB81A5FBCCE3}|Default">
-  <MonoDevelop.Ide.ItemProperties.VisualStusioProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/Controller.cs">
     <Files>
       <File FileName="Controllers/WeatherForecastController.cs" Line="20" Column="1" />
-      <File FileName="Controllers/Controller.cs" Line="1" Column="1" />
+      <File FileName="Controllers/Controller.cs" Line="23" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="VisualStusioProject" expanded="True">
-            <Node name="VisualStusioProject" expanded="True">
+          <Node name="VisualStudioProject" expanded="True">
+            <Node name="VisualStudioProject" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="Controller.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
@@ -21,6 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VisualStudioProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
