@@ -22,6 +22,20 @@ namespace VisualStudioProject.Controllers
         {
             return "ABC";
         }
+
+        [Route("merkkijonot")]
+        public string[] Merkkijonot()
+        {
+            return new string[] { "ABCD", "DEFG" };
+        }
+
+        [Route("sattunnais")]
+        public int Sattunnaisluku()
+        {
+            Random random = new Random();
+            int luku = random.Next(1, 20);
+            return luku;
+        }
     }
 
 }
