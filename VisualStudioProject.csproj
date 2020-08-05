@@ -5,4 +5,9 @@
   </PropertyGroup>
 
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'VisualStusioProject' ">
+    <StartAction>Project</StartAction>
+    <LaunchUrl>weatherforecast</LaunchUrl>
+    <ApplicationURL>https://localhost:5001;http://localhost:5000</ApplicationURL>
+  </PropertyGroup>
 </Project>
