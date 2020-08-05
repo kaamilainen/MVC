@@ -12,11 +12,18 @@ namespace VisualStudioProject.Controllers
     [ApiController]
     public class ValuesController : Controller
     {
+        [Route("luku")]
         public int Luku()
         {
             return 123;
         }
+        [Route("merkkijono")]
+        public string Merkkijono()
+        {
+            return "ABC";
+        }
     }
+
 }
 
 
