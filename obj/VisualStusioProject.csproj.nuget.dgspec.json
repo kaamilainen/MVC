@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tiinakaamilainen/Desktop/VisualStusioProject/VisualStusioProject.csproj": {}
+    "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStusioProject.csproj": {}
   },
   "projects": {
-    "/Users/tiinakaamilainen/Desktop/VisualStusioProject/VisualStusioProject.csproj": {
+    "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStusioProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/VisualStusioProject.csproj",
+        "projectUniqueName": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStusioProject.csproj",
         "projectName": "VisualStusioProject",
-        "projectPath": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/VisualStusioProject.csproj",
+        "projectPath": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/VisualStusioProject.csproj",
         "packagesPath": "/Users/tiinakaamilainen/.nuget/packages/",
-        "outputPath": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/obj/",
+        "outputPath": "/Users/tiinakaamilainen/Desktop/VisualStudioProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tiinakaamilainen/.config/NuGet/NuGet.Config"
