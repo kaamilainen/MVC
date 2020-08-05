@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/MVC.csproj",
-      "projectName": "MVC",
-      "projectPath": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/MVC.csproj",
+      "projectUniqueName": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/VisualStusioProject.csproj",
+      "projectName": "VisualStusioProject",
+      "projectPath": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/VisualStusioProject.csproj",
       "packagesPath": "/Users/tiinakaamilainen/.nuget/packages/",
       "outputPath": "/Users/tiinakaamilainen/Desktop/VisualStusioProject/obj/",
       "projectStyle": "PackageReference",
